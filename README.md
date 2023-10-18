@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/L7SJDM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install I.S.S and Web Platform Installer.
@@ -39,14 +39,14 @@ Install I.S.S and Web Platform Installer.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4Lj7oiv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install HeidiSQL to finish the osTicket install. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Yopl5KW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installation is complete and ready to browse to login page.
