@@ -31,10 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="https://i.imgur.com/L7SJDM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/hQgxQyt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install I.S.S and Web Platform Installer.
+First things first, let's enable IIS with CGI and Common HTTP Features and install the IIS Management Console. During the installation process, make sure to tick the checkboxes for CGI and Common HTTP Features in the World Wide Web Services -> Application Development Features section. Additionally, enable the IIS Management Console in the Internet Information Services -> Web Management Tools section. We need these features to get things rolling smoothly.
 </p>
 <br />
 
