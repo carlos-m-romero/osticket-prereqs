@@ -39,10 +39,14 @@ First things first, let's enable IIS with CGI and Common HTTP Features and insta
 <br />
 
 <p>
-<img src="https://i.imgur.com/4Lj7oiv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L12z1dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install HeidiSQL to finish the osTicket install. 
+Next up, it's time to download and install the PHP Manager for IIS. You can find the installation file (PHPManagerForIIS_V1.5.0.msi) and get it set up. Don't forget to also download and install the Rewrite Module (rewrite_amd64_en-US.msi) to enhance our URL rewriting capabilities. To keep things organized, let's create a directory named "C:\PHP" on our system. We'll need it later.
+
+Now, it's time to grab PHP version 7.3.8. You can find the installation files and specifically look for the zip file named php-7.3.8-nts-Win32-VC15-x86.zip. Once downloaded, extract its contents into the "C:\PHP" directory we just created.
+
+For the smooth functioning of PHP, we need to install the Visual C++ Redistributable package. Grab the VC_redist.x86.exe file from the installation files and run it to complete the installation process.
 <br />
 
 <p>
